@@ -1,2 +1,0 @@
-# Applicaciones-Moviles
-Ejercicios Prácticos
