@@ -15,6 +15,7 @@ import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.auth
 
 class LoginActivity : AppCompatActivity() {
+    ///dsfsd
     lateinit var manejadorArchivo: FileHandler
     lateinit var editTextEmail: EditText
     lateinit var editTextPassword: EditText
